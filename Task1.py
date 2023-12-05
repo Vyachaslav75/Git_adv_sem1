@@ -54,3 +54,4 @@ def generate_numbers():
 generate_numbers()
 #reshenie_uravnenia(1, -4, -5)
 print(reshenie_uravnenia())
+print('Info for first commit')
